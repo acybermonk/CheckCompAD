@@ -1,7 +1,7 @@
 ﻿<#
 ::=================================================================::
 ::Created by Daniel Krysty                                         ::
-::Check list of computers if they are in AD			               ::
+::Check list of computers if they are in AD                        ::
 ::Built in error checking and includes text output                 ::
 ::February 2024                                                    ::
 ::=================================================================:: 
