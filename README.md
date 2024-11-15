@@ -8,7 +8,7 @@ Checks for systems in AD for active and outputs to FOUND or NOT.FOUND text files
 
 Open and run from current directory of computers.txt
 
-EXAMPLE of computers.txt (attached)
+EXAMPLE of example.computers.txt (attached)
 
 Outputs to two different files if found or not found**
 
